@@ -1,3 +1,5 @@
+// ARRAY IMPLEMENTATION OF STACK ADT
+
 #include <stdio.h>
 int stack[100], choice, n, top, x, i;
 void push(void);

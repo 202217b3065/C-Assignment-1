@@ -1,3 +1,5 @@
+// APPLICATIONS OF LIST ADT (POLYNOMIAL ADDITION)
+
 #include <stdio.h>
 
 // Define the structure poly

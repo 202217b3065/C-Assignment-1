@@ -1,4 +1,6 @@
-#include <conio.h>
+// ARRAY IMPLEMENTATION OF LIST ADT
+
+// #include <conio.h>
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 10
@@ -49,7 +51,7 @@ int main() {
   /* The program is intended to run till we provide inputs other that ‘y’
   or ‘Y’ */
   while (g == 'y' || g == 'Y');
-  getch();
+  // getch();
 }
 void create() {
   printf("\n Enter the number of nodes: ");
