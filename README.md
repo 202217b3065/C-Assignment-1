@@ -11,3 +11,5 @@ gcc filename.s -o filename.exe
 ```bash
 gcc filename.c -o filename
 ```
+---
+> Please be aware that the submitted output files is supported by Linux. For testing, the same can be cloned in Google Cloud Shell or Github Codespaces.
