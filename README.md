@@ -7,7 +7,7 @@ gcc -S filename.i
 gcc -c filename.i
 gcc filename.s -o filename.exe
 ```
-### Commands to compile the .c programs to .exe on windows
+### Commands to compile the .c programs
 ```bash
 gcc filename.c -o filename
 ```
